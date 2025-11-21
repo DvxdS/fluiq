@@ -6,6 +6,7 @@ import { Button } from '@/components/ui/button';
 import { Navbar } from '@/components/layout/Navbar';
 import { UserPlus, Sparkles, TrendingUp, Zap, Globe, Lock, Calendar, Instagram, Twitter, Linkedin, ChevronDown, Check, LucideIcon } from 'lucide-react';
 import React from 'react';
+import { FlagSlider } from '@/components/layout/FlagSlider';
 
 // =================================================================
 // TYPE DEFINITIONS & INTERFACES
@@ -251,7 +252,7 @@ export const Home: React.FC = () => {
                   <Check className="w-4 h-4 text-orange-500" /> 100% Mobile Ready
                 </span>
               </div>
-              <div className="text-3xl mt-4">🇨🇮 🇸🇳 🇧🇫 🇹🇬</div>
+              <FlagSlider />
             </motion.div>
           </motion.div>
         </div>
