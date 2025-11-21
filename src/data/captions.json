@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "niche": "lifestyle",
+    "city": "abidjan",
+    "template": "La vie a {city}, c'est une vibe qu'on ne peut pas expliquer. Il faut la vivre! {emoji}",
+    "tone": "fun",
+    "hashtags": ["AbidjanLife", "CIVibes", "LifestyleCI", "Ivoirien"]
+  },
+  {
+    "id": 2,
+    "niche": "lifestyle",
+    "city": "dakar",
+    "template": "Teranga state of mind. {city} m'inspire chaque jour. {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["DakarLife", "Teranga", "SenegalVibes", "Lifestyle"]
+  },
+  {
+    "id": 3,
+    "niche": "food",
+    "city": "abidjan",
+    "template": "Quand le garba est bien fait, tu ne parles plus. Tu manges. {emoji}",
+    "tone": "fun",
+    "hashtags": ["FoodCI", "GarbaLover", "AbidjanFood", "Foodie"]
+  },
+  {
+    "id": 4,
+    "niche": "food",
+    "city": "dakar",
+    "template": "Le Thieboudienne de ma mere > tous les restaurants etoiles. {emoji}",
+    "tone": "fun",
+    "hashtags": ["SenegalFood", "Thieboudienne", "DakarEats", "AfricanFood"]
+  },
+  {
+    "id": 5,
+    "niche": "fashion",
+    "city": "abidjan",
+    "template": "Le style n'a pas de prix, mais il a une adresse: {city}. {emoji}",
+    "tone": "professional",
+    "hashtags": ["FashionCI", "AbidjanFashion", "AfricanFashion", "Style"]
+  },
+  {
+    "id": 6,
+    "niche": "fashion",
+    "city": "dakar",
+    "template": "La mode africaine n'est pas une tendance. C'est un heritage. {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["DakarFashion", "AfricanStyle", "ModeAfricaine", "Fashion"]
+  },
+  {
+    "id": 7,
+    "niche": "beauty",
+    "city": "abidjan",
+    "template": "Ma peau melaninee, ma fierte. Pas besoin de filtre quand tu brilles naturellement. {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["BeautyCI", "Melanin", "NaturalBeauty", "BlackBeauty"]
+  },
+  {
+    "id": 8,
+    "niche": "beauty",
+    "city": "dakar",
+    "template": "Routine beaute du jour: s'aimer soi-meme d'abord. {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["BeautySenegal", "SelfLove", "AfricanBeauty", "Skincare"]
+  },
+  {
+    "id": 9,
+    "niche": "tech",
+    "city": "abidjan",
+    "template": "La tech africaine n'attend personne. On construit le futur depuis {city}. {emoji}",
+    "tone": "professional",
+    "hashtags": ["TechCI", "AfricaTech", "Innovation", "Startup"]
+  },
+  {
+    "id": 10,
+    "niche": "tech",
+    "city": "dakar",
+    "template": "Code. Create. Conquer. La Silicon Valley africaine se construit ici. {emoji}",
+    "tone": "professional",
+    "hashtags": ["TechSenegal", "DakarTech", "Developer", "Coding"]
+  },
+  {
+    "id": 11,
+    "niche": "lifestyle",
+    "city": "ouagadougou",
+    "template": "Le Burkina m'a appris que la vraie richesse, c'est les liens qu'on cree. {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["BurkinaFaso", "Ouaga", "LifestyleBF", "African"]
+  },
+  {
+    "id": 12,
+    "niche": "lifestyle",
+    "city": "lome",
+    "template": "Petit pays, grandes ambitions. {city} te surprendra toujours. {emoji}",
+    "tone": "fun",
+    "hashtags": ["TogoLife", "Lome", "LifestyleTG", "Togolais"]
+  },
+  {
+    "id": 13,
+    "niche": "food",
+    "city": "ouagadougou",
+    "template": "Le to avec la sauce gombo, c'est l'amour dans une assiette. {emoji}",
+    "tone": "fun",
+    "hashtags": ["BurkinaFood", "AfricanCuisine", "Foodie", "OuagaEats"]
+  },
+  {
+    "id": 14,
+    "niche": "food",
+    "city": "lome",
+    "template": "Fufu et sauce d'arachide. Le combo gagnant depuis toujours. {emoji}",
+    "tone": "fun",
+    "hashtags": ["TogoFood", "LomeEats", "AfricanFood", "Foodie"]
+  },
+  {
+    "id": 15,
+    "niche": "fashion",
+    "city": "all",
+    "template": "Chaque tenue raconte une histoire. Quelle est la tienne? {emoji}",
+    "tone": "professional",
+    "hashtags": ["AfricanFashion", "StyleAfrica", "OOTD", "FashionBlogger"]
+  },
+  {
+    "id": 16,
+    "niche": "beauty",
+    "city": "all",
+    "template": "Prends soin de toi comme tu prendrais soin de ta meilleure amie. {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["SelfCare", "BeautyTips", "AfricanBeauty", "Wellness"]
+  },
+  {
+    "id": 17,
+    "niche": "tech",
+    "city": "all",
+    "template": "L'Afrique code son propre avenir. Et toi, tu fais quoi? {emoji}",
+    "tone": "sales",
+    "hashtags": ["AfricaTech", "TechAfrica", "Innovation", "Future"]
+  },
+  {
+    "id": 18,
+    "niche": "lifestyle",
+    "city": "all",
+    "template": "Nouveau jour, nouvelles opportunites. On va chercher! {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["Motivation", "AfricaRising", "GoodVibes", "NewDay"]
+  }
+]

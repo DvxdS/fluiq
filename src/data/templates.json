@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Media Kit Basique",
+    "category": "media-kit",
+    "description": "Un media kit simple et elegant pour presenter ton profil aux marques.",
+    "image": "/templates/media-kit-basic.png",
+    "downloadUrl": "/templates/media-kit-basic.pdf"
+  },
+  {
+    "id": 2,
+    "name": "Media Kit Premium",
+    "category": "media-kit",
+    "description": "Version avancee avec statistiques detaillees et portfolio.",
+    "image": "/templates/media-kit-premium.png",
+    "downloadUrl": "/templates/media-kit-premium.pdf"
+  },
+  {
+    "id": 3,
+    "name": "Contrat de Collaboration",
+    "category": "contrat",
+    "description": "Modele de contrat pour tes partenariats avec les marques.",
+    "image": "/templates/contrat-collab.png",
+    "downloadUrl": "/templates/contrat-collab.pdf"
+  },
+  {
+    "id": 4,
+    "name": "Facture Influenceur",
+    "category": "facture",
+    "description": "Modele de facture professionnelle pour tes prestations.",
+    "image": "/templates/facture.png",
+    "downloadUrl": "/templates/facture.pdf"
+  },
+  {
+    "id": 5,
+    "name": "Email de Prospection",
+    "category": "email",
+    "description": "Template d'email pour contacter les marques.",
+    "image": "/templates/email-prospection.png",
+    "downloadUrl": "/templates/email-prospection.txt"
+  },
+  {
+    "id": 6,
+    "name": "Calendrier Editorial",
+    "category": "planning",
+    "description": "Planifie ton contenu sur un mois complet.",
+    "image": "/templates/calendrier-editorial.png",
+    "downloadUrl": "/templates/calendrier-editorial.xlsx"
+  }
+]

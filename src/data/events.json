@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "country": "CI",
+    "date": "2025-01-01",
+    "name": "Jour de l'An",
+    "type": "holiday",
+    "content_ideas": ["Voeux pour la nouvelle annee", "Bilan de l'annee passee", "Objectifs 2025"]
+  },
+  {
+    "id": 2,
+    "country": "ALL",
+    "date": "2025-02-14",
+    "name": "Saint Valentin",
+    "type": "international",
+    "content_ideas": ["Self-love content", "Gift guide", "Date ideas locales"]
+  },
+  {
+    "id": 3,
+    "country": "ALL",
+    "date": "2025-03-08",
+    "name": "Journee Internationale de la Femme",
+    "type": "international",
+    "content_ideas": ["Celebrer les femmes inspirantes", "Parcours personnel", "Soutenir les femmes entrepreneurs"]
+  },
+  {
+    "id": 4,
+    "country": "SN",
+    "date": "2025-04-04",
+    "name": "Fete de l'Independance du Senegal",
+    "type": "national",
+    "content_ideas": ["Histoire du Senegal", "Fierte nationale", "Traditions senegalaises"]
+  },
+  {
+    "id": 5,
+    "country": "ALL",
+    "date": "2025-03-30",
+    "name": "Eid al-Fitr (estimation)",
+    "type": "religious",
+    "content_ideas": ["Voeux de bonne fete", "Traditions familiales", "Tenues de fete"]
+  },
+  {
+    "id": 6,
+    "country": "TG",
+    "date": "2025-04-27",
+    "name": "Fete de l'Independance du Togo",
+    "type": "national",
+    "content_ideas": ["Patrimoine togolais", "Musique et culture", "Fierte nationale"]
+  },
+  {
+    "id": 7,
+    "country": "ALL",
+    "date": "2025-05-25",
+    "name": "Journee de l'Afrique",
+    "type": "international",
+    "content_ideas": ["Celebrer l'unite africaine", "Mode africaine", "Entrepreneurs africains"]
+  },
+  {
+    "id": 8,
+    "country": "CI",
+    "date": "2025-08-07",
+    "name": "Fete de l'Independance de la Cote d'Ivoire",
+    "type": "national",
+    "content_ideas": ["Histoire ivoirienne", "Danses traditionnelles", "Cuisine ivoirienne"]
+  },
+  {
+    "id": 9,
+    "country": "BF",
+    "date": "2025-08-05",
+    "name": "Fete de l'Independance du Burkina Faso",
+    "type": "national",
+    "content_ideas": ["Culture burkinabe", "Artisanat local", "Musique burkinabe"]
+  },
+  {
+    "id": 10,
+    "country": "ALL",
+    "date": "2025-06-06",
+    "name": "Eid al-Adha (estimation)",
+    "type": "religious",
+    "content_ideas": ["Tabaski celebrations", "Traditions familiales", "Mode festive"]
+  },
+  {
+    "id": 11,
+    "country": "ALL",
+    "date": "2025-12-25",
+    "name": "Noel",
+    "type": "holiday",
+    "content_ideas": ["Decorations locales", "Recettes de fete", "Cadeaux made in Africa"]
+  },
+  {
+    "id": 12,
+    "country": "ALL",
+    "date": "2025-12-31",
+    "name": "Reveillon du Nouvel An",
+    "type": "holiday",
+    "content_ideas": ["Tenues de soiree", "Retrospective de l'annee", "Resolutions"]
+  },
+  {
+    "id": 13,
+    "country": "CI",
+    "date": "2025-11-15",
+    "name": "Journee Nationale de la Paix",
+    "type": "national",
+    "content_ideas": ["Messages de paix", "Unite nationale", "Solidarite"]
+  },
+  {
+    "id": 14,
+    "country": "SN",
+    "date": "2025-12-25",
+    "name": "Noel au Senegal",
+    "type": "holiday",
+    "content_ideas": ["Noel a la senegalaise", "Melange de traditions", "Esprit de fete"]
+  },
+  {
+    "id": 15,
+    "country": "ALL",
+    "date": "2025-05-01",
+    "name": "Fete du Travail",
+    "type": "international",
+    "content_ideas": ["Celebrer les travailleurs", "Entrepreneuriat", "Work-life balance"]
+  }
+]

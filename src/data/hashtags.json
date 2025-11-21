@@ -1,0 +1,11 @@
+{
+  "lifestyle": ["LifestyleAfrica", "AfricanLife", "DailyVibes", "AfricaRising", "GoodVibesOnly"],
+  "food": ["AfricanFood", "FoodieAfrica", "AfricanCuisine", "FoodLover", "HomeCooked"],
+  "fashion": ["AfricanFashion", "AfricanStyle", "FashionAfrica", "OOTD", "StyleInspo"],
+  "beauty": ["AfricanBeauty", "Melanin", "NaturalBeauty", "BeautyAfrica", "SkinCare"],
+  "tech": ["TechAfrica", "AfricaTech", "Innovation", "Startup", "Developer"],
+  "ci": ["CoteDivoire", "AbidjanVibes", "TeamCI", "Ivoirien", "AbidjanCity"],
+  "sn": ["Senegal", "DakarVibes", "TeamSenegal", "Teranga", "DakarCity"],
+  "bf": ["BurkinaFaso", "Ouagadougou", "TeamBurkina", "Burkinabe", "OuagaCity"],
+  "tg": ["Togo", "LomeVibes", "TeamTogo", "Togolais", "LomeCity"]
+}
