@@ -142,5 +142,693 @@
     "template": "Nouveau jour, nouvelles opportunites. On va chercher! {emoji}",
     "tone": "inspirational",
     "hashtags": ["Motivation", "AfricaRising", "GoodVibes", "NewDay"]
+  },
+  {
+    "id": 19,
+    "niche": "lifestyle",
+    "city": "abidjan",
+    "template": "POV: C'est vendredi soir à {city} et tu sais que la nuit sera longue 🔥 {emoji}",
+    "tone": "fun",
+    "hashtags": ["AbidjanNights", "Weekend", "VibesCI", "FridayFeeling"]
+  },
+  {
+    "id": 20,
+    "niche": "lifestyle",
+    "city": "dakar",
+    "template": "La vraie question c'est: t'es déjà allé au marché Sandaga un samedi? 😅 {emoji}",
+    "tone": "fun",
+    "hashtags": ["DakarLife", "Sandaga", "SenegalVibes", "WeekendVibes"]
+  },
+  {
+    "id": 21,
+    "niche": "lifestyle",
+    "city": "ouagadougou",
+    "template": "Thread 🧵: Pourquoi {city} est la ville la plus underrated d'Afrique de l'Ouest",
+    "tone": "professional",
+    "hashtags": ["Ouaga", "BurkinaFaso", "Travel", "AfriqueOuest"]
+  },
+  {
+    "id": 22,
+    "niche": "lifestyle",
+    "city": "lome",
+    "template": "Entre le Boulevard de la République et la plage, mon cœur balance 💙 {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["LomeLife", "Togo", "BeachLife", "CoastalVibes"]
+  },
+  {
+    "id": 23,
+    "niche": "lifestyle",
+    "city": "abidjan",
+    "template": "Fr fr, y'a pas deux {city}. On est ensemble ou on n'est pas ensemble? 💯",
+    "tone": "fun",
+    "hashtags": ["Abidjan225", "TeamCI", "OnEstEnsemble", "VibesCI"]
+  },
+  {
+    "id": 24,
+    "niche": "lifestyle",
+    "city": "dakar",
+    "template": "Challenge: Passer une journée à {city} sans danser. Impossible? Je sais. 🕺 {emoji}",
+    "tone": "fun",
+    "hashtags": ["DakarChallenge", "DanceLife", "Senegal", "MbalaxVibes"]
+  },
+  {
+    "id": 25,
+    "niche": "lifestyle",
+    "city": "all",
+    "template": "Mes gars, on est pas venu jouer. 2025 c'est notre année! 🚀 {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["Motivation", "2025Goals", "AfricanDreams", "OnVaChercher"]
+  },
+  {
+    "id": 26,
+    "niche": "lifestyle",
+    "city": "abidjan",
+    "template": "Tcho! Si tu connais pas le Plateau à 7h du matin, tu connais pas vraiment Abidjan 😂",
+    "tone": "fun",
+    "hashtags": ["AbidjanLife", "Plateau", "RushHour", "CIVibes"]
+  },
+  {
+    "id": 27,
+    "niche": "lifestyle",
+    "city": "ouagadougou",
+    "template": "Le FESPACO approche... {city} va encore montrer au monde c'est qui le boss! 🎬 {emoji}",
+    "tone": "professional",
+    "hashtags": ["FESPACO", "Ouaga", "AfricanCinema", "BurkinaFaso"]
+  },
+  {
+    "id": 28,
+    "niche": "lifestyle",
+    "city": "lome",
+    "template": "POV: Tu découvres que {city} a les meilleurs spots cachés d'Afrique de l'Ouest 🌴 {emoji}",
+    "tone": "fun",
+    "hashtags": ["LomeSecrets", "TogoTravel", "HiddenGems", "Explore"]
+  },
+  {
+    "id": 29,
+    "niche": "lifestyle",
+    "city": "dakar",
+    "template": "Question du jour: C'est quoi ton quartier préféré à {city}? Moi c'est Almadies 🌊",
+    "tone": "fun",
+    "hashtags": ["DakarQuartiers", "Almadies", "SenegalLife", "LocalVibes"]
+  },
+  {
+    "id": 30,
+    "niche": "lifestyle",
+    "city": "all",
+    "template": "La vie est courte, profite de chaque moment comme si c'était le dernier. On est ensemble! 💫",
+    "tone": "inspirational",
+    "hashtags": ["LifeQuotes", "AfricanWisdom", "LiveFully", "Motivation"]
+  },
+  {
+    "id": 31,
+    "niche": "lifestyle",
+    "city": "abidjan",
+    "template": "Story time: Comment j'ai appris à aimer le chaos d'{city} et ne plus pouvoir m'en passer 🧡",
+    "tone": "inspirational",
+    "hashtags": ["AbidjanStories", "CityLove", "HomeVibes", "CILife"]
+  },
+  {
+    "id": 32,
+    "niche": "lifestyle",
+    "city": "all",
+    "template": "Le succès n'attend pas. On bosse dur, on reste humble, et on va chercher nos rêves! 💪 {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["SuccessStory", "HustleHard", "AfricanDreams", "Grind"]
+  },
+  {
+    "id": 33,
+    "niche": "food",
+    "city": "abidjan",
+    "template": "La vraie question c'est: t'es team attiéké poisson ou team attiéké poulet? 🤔 {emoji}",
+    "tone": "fun",
+    "hashtags": ["AttiekéDebate", "AbidjanFood", "FoodCI", "TeamAttiéké"]
+  },
+  {
+    "id": 34,
+    "niche": "food",
+    "city": "dakar",
+    "template": "POV: Tu découvres que le yassa de {city} est le meilleur plat au monde 🍗 {emoji}",
+    "tone": "fun",
+    "hashtags": ["YassaPoulet", "DakarEats", "SenegalFood", "Foodie"]
+  },
+  {
+    "id": 35,
+    "niche": "food",
+    "city": "ouagadougou",
+    "template": "Fr fr, si t'as jamais goûté le riz gras de ma mère à {city}, tu rates ta vie 😋",
+    "tone": "fun",
+    "hashtags": ["RizGras", "BurkinaFood", "HomeCooking", "AfricanFood"]
+  },
+  {
+    "id": 36,
+    "niche": "food",
+    "city": "lome",
+    "template": "Thread 🧵: Les 5 meilleurs maquis de {city} que personne ne connaît (mais devrait) 🍽️",
+    "tone": "professional",
+    "hashtags": ["LomeMaquis", "TogoFood", "FoodGuide", "LocalEats"]
+  },
+  {
+    "id": 37,
+    "niche": "food",
+    "city": "abidjan",
+    "template": "Challenge: Manger du placali sauce graine sans te salir. Impossible? Exactement 😂 {emoji}",
+    "tone": "fun",
+    "hashtags": ["PlacaliChallenge", "CIFood", "AfricanCuisine", "Messy"]
+  },
+  {
+    "id": 38,
+    "niche": "food",
+    "city": "dakar",
+    "template": "Tcho! Le fataya de la mère Diop > tous les snacks du monde. On est d'accord ou bien? 🥟",
+    "tone": "fun",
+    "hashtags": ["Fataya", "DakarSnacks", "StreetFood", "SenegalEats"]
+  },
+  {
+    "id": 39,
+    "niche": "food",
+    "city": "all",
+    "template": "POV: C'est dimanche midi et toute la famille est réunie autour d'un bon plat 👨‍👩‍👧‍👦 {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["FamilyTime", "SundayDinner", "AfricanFamily", "Together"]
+  },
+  {
+    "id": 40,
+    "niche": "food",
+    "city": "ouagadougou",
+    "template": "Question du jour: C'est quoi ton plat burkinabè préféré? Moi c'est le babenda! 🍲",
+    "tone": "fun",
+    "hashtags": ["BurkinaCuisine", "Babenda", "OuagaFood", "AfricanFood"]
+  },
+  {
+    "id": 41,
+    "niche": "food",
+    "city": "lome",
+    "template": "Entre le akume et le fufu, mon cœur ne peut pas choisir 😭 {emoji}",
+    "tone": "fun",
+    "hashtags": ["TogoFood", "Akume", "Fufu", "Choices"]
+  },
+  {
+    "id": 42,
+    "niche": "food",
+    "city": "abidjan",
+    "template": "Story time: Comment j'ai converti mon copain français au garba. Maintenant il ne peut plus s'en passer! 😂",
+    "tone": "fun",
+    "hashtags": ["GarbaAddict", "AbidjanFood", "Converted", "FoodStory"]
+  },
+  {
+    "id": 43,
+    "niche": "food",
+    "city": "dakar",
+    "template": "Le mafé de grand-mère reste imbattable. C'est un fait, pas une opinion 👵 {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["Mafé", "GrandmaRecipe", "SenegalFood", "Tradition"]
+  },
+  {
+    "id": 44,
+    "niche": "food",
+    "city": "all",
+    "template": "La cuisine africaine mérite plus de reconnaissance mondiale. On est d'accord ou pas? 🌍 {emoji}",
+    "tone": "professional",
+    "hashtags": ["AfricanCuisine", "FoodCulture", "Recognition", "Proud"]
+  },
+  {
+    "id": 45,
+    "niche": "food",
+    "city": "abidjan",
+    "template": "Mes gars, le alloco piment bien préparé c'est le bonheur dans une assiette! 🍌🔥",
+    "tone": "fun",
+    "hashtags": ["Alloco", "PimentTime", "AbidjanStreetFood", "Happiness"]
+  },
+  {
+    "id": 46,
+    "niche": "food",
+    "city": "ouagadougou",
+    "template": "Fr fr, si tu visites {city} sans goûter au zoom-kom, t'as raté quelque chose 🥤",
+    "tone": "fun",
+    "hashtags": ["ZoomKom", "BurkinaDrinks", "LocalFlavors", "MustTry"]
+  },
+  {
+    "id": 47,
+    "niche": "food",
+    "city": "lome",
+    "template": "POV: Il est 22h à {city} et tu cherches le meilleur spot pour manger tard 🌙 {emoji}",
+    "tone": "fun",
+    "hashtags": ["LomeNights", "LateNightEats", "TogoFood", "FoodHunt"]
+  },
+  {
+    "id": 48,
+    "niche": "food",
+    "city": "all",
+    "template": "Thread 🧵: Comment la nourriture africaine a façonné mon identité et ma fierté",
+    "tone": "inspirational",
+    "hashtags": ["FoodIdentity", "AfricanPride", "Culture", "Heritage"]
+  },
+  {
+    "id": 49,
+    "niche": "fashion",
+    "city": "abidjan",
+    "template": "La vraie question c'est: t'es prêt pour ce level de style? 🔥 #Fashion{city}",
+    "tone": "sales",
+    "hashtags": ["AbidjanFashion", "StyleLevel", "FashionCI", "Drip"]
+  },
+  {
+    "id": 50,
+    "niche": "fashion",
+    "city": "dakar",
+    "template": "POV: Tu te promènes au marché HLM et tu découvres les pépites fashion de {city} 💎 {emoji}",
+    "tone": "fun",
+    "hashtags": ["DakarFashion", "HLM", "FashionFinds", "StyleHunt"]
+  },
+  {
+    "id": 51,
+    "niche": "fashion",
+    "city": "all",
+    "template": "Thread 🧵: Comment j'ai transformé mon influence mode en business viable et rentable",
+    "tone": "professional",
+    "hashtags": ["FashionBusiness", "Influence", "Monetize", "Success"]
+  },
+  {
+    "id": 52,
+    "niche": "fashion",
+    "city": "ouagadougou",
+    "template": "Le Faso Dan Fani n'est pas juste un tissu. C'est notre fierté, notre histoire 🧵 {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["FasoDanFani", "BurkinaFashion", "Heritage", "Pride"]
+  },
+  {
+    "id": 53,
+    "niche": "fashion",
+    "city": "lome",
+    "template": "Tcho! Le wax togolais frappe différemment. Si tu sais, tu sais 😏 {emoji}",
+    "tone": "fun",
+    "hashtags": ["WaxTogolais", "LomeFashion", "AfricanPrint", "Style"]
+  },
+  {
+    "id": 54,
+    "niche": "fashion",
+    "city": "abidjan",
+    "template": "Question du jour: C'est quoi ton quartier shopping préféré à {city}? 🛍️",
+    "tone": "fun",
+    "hashtags": ["AbidjanShopping", "FashionCI", "Shopping", "Style"]
+  },
+  {
+    "id": 55,
+    "niche": "fashion",
+    "city": "dakar",
+    "template": "Challenge: Porter du wax pendant 7 jours d'affilée. Qui relève le défi? 👗 {emoji}",
+    "tone": "fun",
+    "hashtags": ["WaxChallenge", "DakarFashion", "7DaysOfWax", "Fashion"]
+  },
+  {
+    "id": 56,
+    "niche": "fashion",
+    "city": "all",
+    "template": "Fr fr, la mode africaine n'a pas besoin de validation occidentale. On brille de notre propre lumière! ✨",
+    "tone": "inspirational",
+    "hashtags": ["AfricanFashion", "NoValidation", "ShineBright", "Pride"]
+  },
+  {
+    "id": 57,
+    "niche": "fashion",
+    "city": "abidjan",
+    "template": "Story time: Comment un boubou m'a ouvert les portes d'un contrat à 6 chiffres 💰 {emoji}",
+    "tone": "professional",
+    "hashtags": ["SuccessStory", "FashionDeal", "Boubou", "AbidjanStyle"]
+  },
+  {
+    "id": 58,
+    "niche": "fashion",
+    "city": "ouagadougou",
+    "template": "POV: C'est la SIAO et {city} devient la capitale mondiale de l'artisanat 🎨 {emoji}",
+    "tone": "professional",
+    "hashtags": ["SIAO", "Ouagadougou", "Artisanat", "Crafts"]
+  },
+  {
+    "id": 59,
+    "niche": "fashion",
+    "city": "dakar",
+    "template": "Mes gars, le style sénégalais c'est un état d'esprit. On ne copie personne! 💯",
+    "tone": "inspirational",
+    "hashtags": ["StyleSenegalais", "Unique", "DakarFashion", "Original"]
+  },
+  {
+    "id": 60,
+    "niche": "fashion",
+    "city": "lome",
+    "template": "Entre modernité et tradition, {city} crée son propre langage fashion 👔 {emoji}",
+    "tone": "professional",
+    "hashtags": ["LomeStyle", "ModernTradition", "TogoFashion", "Blend"]
+  },
+  {
+    "id": 61,
+    "niche": "fashion",
+    "city": "all",
+    "template": "La mode n'est pas superficielle quand elle raconte ton histoire et célèbre tes racines 🌍 {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["FashionStory", "Roots", "AfricanStyle", "Meaning"]
+  },
+  {
+    "id": 62,
+    "niche": "fashion",
+    "city": "abidjan",
+    "template": "Thread 🧵: Les 10 créateurs mode d'{city} qui vont exploser en 2025",
+    "tone": "professional",
+    "hashtags": ["AbidjanDesigners", "FashionCI", "Emerging", "2025"]
+  },
+  {
+    "id": 63,
+    "niche": "fashion",
+    "city": "dakar",
+    "template": "Tcho! Si ton boubou n'est pas bien taillé à {city}, on va te le dire franchement 😂",
+    "tone": "fun",
+    "hashtags": ["DakarTailors", "BoubouGame", "QualityMatters", "SenegalStyle"]
+  },
+  {
+    "id": 64,
+    "niche": "fashion",
+    "city": "all",
+    "template": "POV: Tu réalises que le wax dans ta garde-robe vaut plus que tes vêtements de marque 💸 {emoji}",
+    "tone": "fun",
+    "hashtags": ["WaxValue", "Investment", "AfricanFashion", "Worth"]
+  },
+  {
+    "id": 65,
+    "niche": "beauty",
+    "city": "abidjan",
+    "template": "POV: Tu découvres les secrets beauté naturels des femmes d'{city} 🌿 {emoji}",
+    "tone": "professional",
+    "hashtags": ["BeautySecrets", "AbidjanBeauty", "NaturalBeauty", "Skincare"]
+  },
+  {
+    "id": 66,
+    "niche": "beauty",
+    "city": "dakar",
+    "template": "Thread 🧵: Ma routine beauté 100% produits africains qui a transformé ma peau",
+    "tone": "professional",
+    "hashtags": ["BeautyRoutine", "AfricanProducts", "Skincare", "Transformation"]
+  },
+  {
+    "id": 67,
+    "niche": "beauty",
+    "city": "all",
+    "template": "La vraie question c'est: pourquoi on cherche ailleurs quand le karité fait des miracles? 🤔 {emoji}",
+    "tone": "fun",
+    "hashtags": ["SheaButter", "Karité", "NaturalBeauty", "African"]
+  },
+  {
+    "id": 68,
+    "niche": "beauty",
+    "city": "ouagadougou",
+    "template": "Fr fr, le beurre de karité de {city} > toutes les crèmes de luxe. On est ensemble! 💛",
+    "tone": "fun",
+    "hashtags": ["BurkinaKarité", "NaturalSkincare", "OuagaBeauty", "Shea"]
+  },
+  {
+    "id": 69,
+    "niche": "beauty",
+    "city": "lome",
+    "template": "Challenge: Une semaine de beauté 100% naturelle. Qui est partant? 🌱 {emoji}",
+    "tone": "fun",
+    "hashtags": ["NaturalBeautyChallenge", "LomeBeauty", "GreenBeauty", "Natural"]
+  },
+  {
+    "id": 70,
+    "niche": "beauty",
+    "city": "abidjan",
+    "template": "Mes gars, la peau noire ne vieillit pas pareil. On garde notre secret ou bien? 😉 {emoji}",
+    "tone": "fun",
+    "hashtags": ["BlackDontCrack", "MelaninMagic", "AbidjanBeauty", "Timeless"]
+  },
+  {
+    "id": 71,
+    "niche": "beauty",
+    "city": "dakar",
+    "template": "Question du jour: C'est quoi ton produit beauté made in Senegal préféré? 💄",
+    "tone": "fun",
+    "hashtags": ["SenegalBeauty", "LocalProducts", "DakarBeauty", "MadeInSenegal"]
+  },
+  {
+    "id": 72,
+    "niche": "beauty",
+    "city": "all",
+    "template": "POV: Tu réalises que nos grand-mères avaient déjà tous les secrets beauté 👵 {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["AncestralBeauty", "Wisdom", "NaturalSecrets", "Heritage"]
+  },
+  {
+    "id": 73,
+    "niche": "beauty",
+    "city": "abidjan",
+    "template": "Story time: Comment j'ai arrêté les produits éclaircissants et retrouvé ma vraie beauté 🖤",
+    "tone": "inspirational",
+    "hashtags": ["SelfLove", "NaturalBeauty", "MelaninPride", "RealBeauty"]
+  },
+  {
+    "id": 74,
+    "niche": "beauty",
+    "city": "ouagadougou",
+    "template": "Tcho! Le henné de {city} pour des cheveux en pleine santé. Si tu sais, tu sais! 🌿",
+    "tone": "fun",
+    "hashtags": ["Henné", "HairCare", "OuagaBeauty", "NaturalHair"]
+  },
+  {
+    "id": 75,
+    "niche": "beauty",
+    "city": "lome",
+    "template": "Thread 🧵: Les meilleurs salons de coiffure afro de {city} selon moi 💇‍♀️",
+    "tone": "professional",
+    "hashtags": ["LomeSalons", "AfroHair", "HairCare", "TogoBeauty"]
+  },
+  {
+    "id": 76,
+    "niche": "beauty",
+    "city": "all",
+    "template": "La beauté commence de l'intérieur. Prends soin de ton âme, ton visage suivra ✨ {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["InnerBeauty", "SelfCare", "Wellness", "Glow"]
+  },
+  {
+    "id": 77,
+    "niche": "beauty",
+    "city": "dakar",
+    "template": "Entre le savon noir et l'huile d'argan, ma peau a trouvé son paradis 🧼 {emoji}",
+    "tone": "professional",
+    "hashtags": ["SavonNoir", "ArganOil", "DakarBeauty", "Skincare"]
+  },
+  {
+    "id": 78,
+    "niche": "beauty",
+    "city": "abidjan",
+    "template": "Fr fr, les tresses africaines c'est plus qu'une coiffure, c'est un art! 🎨 {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["AfricanBraids", "HairArt", "AbidjanStyle", "Culture"]
+  },
+  {
+    "id": 79,
+    "niche": "beauty",
+    "city": "all",
+    "template": "POV: Tu découvres que tes cheveux crépus sont ta plus grande force, pas un problème à résoudre 👑",
+    "tone": "inspirational",
+    "hashtags": ["NaturalHair", "CrépusEtFiers", "HairLove", "Power"]
+  },
+  {
+    "id": 80,
+    "niche": "beauty",
+    "city": "lome",
+    "template": "Question: C'est quoi ta routine capillaire? Partage tes secrets! 💁‍♀️ {emoji}",
+    "tone": "fun",
+    "hashtags": ["HairRoutine", "LomeBeauty", "ShareSecrets", "HairCare"]
+  },
+  {
+    "id": 81,
+    "niche": "tech",
+    "city": "abidjan",
+    "template": "POV: Tu réalises que {city} est en train de devenir la Silicon Valley de l'Afrique francophone 💻 {emoji}",
+    "tone": "professional",
+    "hashtags": ["AbidjanTech", "TechHub", "Innovation", "SiliconValley"]
+  },
+  {
+    "id": 82,
+    "niche": "tech",
+    "city": "dakar",
+    "template": "Thread 🧵: Comment j'ai transformé mon influence en business tech viable",
+    "tone": "professional",
+    "hashtags": ["TechBusiness", "DakarTech", "Influence", "Startup"]
+  },
+  {
+    "id": 83,
+    "niche": "tech",
+    "city": "all",
+    "template": "La vraie question c'est: pourquoi les investisseurs ignorent encore le potentiel tech africain? 🤔",
+    "tone": "sales",
+    "hashtags": ["AfricaTech", "Investment", "Potential", "FundAfrica"]
+  },
+  {
+    "id": 84,
+    "niche": "tech",
+    "city": "ouagadougou",
+    "template": "Fr fr, {city} code son propre avenir. Les devs burkinabè ne jouent pas! 💪 {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["BurkinaTech", "Developers", "OuagaCodes", "Future"]
+  },
+  {
+    "id": 85,
+    "niche": "tech",
+    "city": "lome",
+    "template": "Challenge: Apprendre un nouveau langage de programmation ce mois. Qui est avec moi? 👨‍💻",
+    "tone": "fun",
+    "hashtags": ["CodingChallenge", "LomeTech", "LearnToCode", "DevLife"]
+  },
+  {
+    "id": 86,
+    "niche": "tech",
+    "city": "abidjan",
+    "template": "Mes gars, la tech n'est pas réservée aux autres. On construit notre empire depuis {city}! 🏗️",
+    "tone": "inspirational",
+    "hashtags": ["TechEmpire", "AbidjanInnovation", "BuildingFuture", "TechCI"]
+  },
+  {
+    "id": 87,
+    "niche": "tech",
+    "city": "dakar",
+    "template": "Question du jour: C'est quoi la startup sénégalaise qui vous inspire le plus? 🚀",
+    "tone": "fun",
+    "hashtags": ["SenegalStartups", "DakarTech", "Inspiration", "Innovation"]
+  },
+  {
+    "id": 88,
+    "niche": "tech",
+    "city": "all",
+    "template": "POV: Tu découvres qu'un dev africain a créé une solution qui change des vies 🌍 {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["AfricaTech", "Innovation", "ImpactTech", "ChangeTheWorld"]
+  },
+  {
+    "id": 89,
+    "niche": "tech",
+    "city": "abidjan",
+    "template": "Story time: Comment j'ai levé mes premiers fonds pour ma startup à {city} 💰 {emoji}",
+    "tone": "professional",
+    "hashtags": ["FundraisingStory", "AbidjanStartup", "Investment", "Success"]
+  },
+  {
+    "id": 90,
+    "niche": "tech",
+    "city": "ouagadougou",
+    "template": "Tcho! La tech africaine n'a pas besoin de permission pour briller. On prouve chaque jour! ✨",
+    "tone": "inspirational",
+    "hashtags": ["AfricaTech", "NoPermission", "ShineBright", "Innovation"]
+  },
+  {
+    "id": 91,
+    "niche": "tech",
+    "city": "lome",
+    "template": "Thread 🧵: Les meilleures ressources pour apprendre à coder en français 📚",
+    "tone": "professional",
+    "hashtags": ["LearnToCode", "TechEducation", "FrenchResources", "LomeTech"]
+  },
+  {
+    "id": 92,
+    "niche": "tech",
+    "city": "dakar",
+    "template": "Entre l'IA, la blockchain et le mobile money, {city} innove sur tous les fronts! 🔥 {emoji}",
+    "tone": "professional",
+    "hashtags": ["DakarInnovation", "AI", "Blockchain", "MobileMoney"]
+  },
+  {
+    "id": 93,
+    "niche": "tech",
+    "city": "all",
+    "template": "Fr fr, si tu ne te formes pas en tech aujourd'hui, tu rates le train du futur 🚄",
+    "tone": "sales",
+    "hashtags": ["TechEducation", "Future", "SkillUp", "LearnTech"]
+  },
+  {
+    "id": 94,
+    "niche": "tech",
+    "city": "abidjan",
+    "template": "POV: Ton app made in {city} atteint 100k utilisateurs. Le rêve devient réalité! 📱 {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["AppSuccess", "AbidjanTech", "100k", "DreamBig"]
+  },
+  {
+    "id": 95,
+    "niche": "tech",
+    "city": "all",
+    "template": "Les GAFAM tremblent. L'Afrique code son indépendance technologique! 💪 {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["TechIndependence", "AfricaCodes", "Innovation", "Future"]
+  },
+  {
+    "id": 96,
+    "niche": "tech",
+    "city": "dakar",
+    "template": "Question: C'est quoi le langage de programmation le plus utilisé au Sénégal? 🤔",
+    "tone": "fun",
+    "hashtags": ["CodingQuestion", "DakarDev", "Programming", "TechSenegal"]
+  },
+  {
+    "id": 97,
+    "niche": "lifestyle",
+    "city": "all",
+    "template": "Tcho! L'Afrique de l'Ouest a ce truc spécial qu'on ne trouve nulle part ailleurs. La chaleur humaine 🧡",
+    "tone": "inspirational",
+    "hashtags": ["WestAfrica", "Warmth", "Community", "AfricanVibes"]
+  },
+  {
+    "id": 98,
+    "niche": "food",
+    "city": "dakar",
+    "template": "Entre le thiakry et le ngalakh, les desserts sénégalais méritent plus d'amour 🍨 {emoji}",
+    "tone": "fun",
+    "hashtags": ["SenegalDesserts", "Thiakry", "Ngalakh", "SweetTooth"]
+  },
+  {
+    "id": 99,
+    "niche": "fashion",
+    "city": "ouagadougou",
+    "template": "Question: Wax ou Faso Dan Fani? Le grand débat mode de {city}! 👗 {emoji}",
+    "tone": "fun",
+    "hashtags": ["FashionDebate", "OuagaStyle", "WaxVsFaso", "Choose"]
+  },
+  {
+    "id": 100,
+    "niche": "lifestyle",
+    "city": "lome",
+    "template": "POV: Tu comprends enfin pourquoi on dit que {city} est la perle du Golfe de Guinée 🌊 {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["LomeLaPérle", "TogoBeauty", "GulfOfGuinea", "Discover"]
+  },
+  {
+    "id": 101,
+    "niche": "beauty",
+    "city": "all",
+    "template": "Thread 🧵: Pourquoi j'ai arrêté d'acheter des produits importés pour ma peau noire",
+    "tone": "professional",
+    "hashtags": ["LocalProducts", "BlackSkin", "NaturalBeauty", "BuyAfrican"]
+  },
+  {
+    "id": 102,
+    "niche": "tech",
+    "city": "lome",
+    "template": "Fr fr, les startups togolaises sont en train de tout casser. Suivez bien! 🚀 {emoji}",
+    "tone": "professional",
+    "hashtags": ["TogoStartups", "LomeTech", "Innovation", "WatchThisSpace"]
+  },
+  {
+    "id": 103,
+    "niche": "food",
+    "city": "all",
+    "template": "POV: Tu essaies d'expliquer à un étranger pourquoi manger avec les mains c'est la meilleure expérience 😂",
+    "tone": "fun",
+    "hashtags": ["AfricanFood", "EatWithHands", "Culture", "Tradition"]
+  },
+  {
+    "id": 104,
+    "niche": "lifestyle",
+    "city": "abidjan",
+    "template": "On est ensemble ou on n'est pas ensemble? {city} c'est la famille! 🧡 {emoji}",
+    "tone": "inspirational",
+    "hashtags": ["AbidjanFamily", "OnEstEnsemble", "Unity", "CILove"]
   }
 ]

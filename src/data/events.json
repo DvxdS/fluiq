@@ -118,5 +118,245 @@
     "name": "Fete du Travail",
     "type": "international",
     "content_ideas": ["Celebrer les travailleurs", "Entrepreneuriat", "Work-life balance"]
+  },
+  {
+    "id": 16,
+    "country": "BF",
+    "date": "2025-02-22",
+    "name": "FESPACO - Festival Panafricain du Cinema",
+    "type": "cultural",
+    "content_ideas": ["Coverage des projections", "Interviews de realisateurs", "Fashion sur le tapis rouge", "Behind the scenes du festival", "Analyse des films africains"]
+  },
+  {
+    "id": 17,
+    "country": "CI",
+    "date": "2025-04-12",
+    "name": "FEMUA Anoumabo",
+    "type": "cultural",
+    "content_ideas": ["Concerts et performances live", "Decouverte des artistes urbains", "Street style au festival", "Coulisses du festival", "Playlist des meilleurs moments"]
+  },
+  {
+    "id": 18,
+    "country": "SN",
+    "date": "2025-05-10",
+    "name": "Saint-Louis Jazz Festival",
+    "type": "cultural",
+    "content_ideas": ["Ambiance jazz senegalaise", "Rencontre avec les musiciens", "Architecture de Saint-Louis", "Festival vibes et lifestyle", "Fusion jazz-musique africaine"]
+  },
+  {
+    "id": 19,
+    "country": "ALL",
+    "date": "2025-04-20",
+    "name": "Paques",
+    "type": "religious",
+    "content_ideas": ["Traditions de Paques en Afrique", "Recettes de fete", "Tenues pour la messe", "Celebrations familiales", "Messages d'esperance"]
+  },
+  {
+    "id": 20,
+    "country": "ALL",
+    "date": "2025-09-12",
+    "name": "Mawlid - Naissance du Prophete",
+    "type": "religious",
+    "content_ideas": ["Celebrations et prieres", "Traditions locales", "Partage et solidarite", "Tenues traditionnelles", "Recettes speciales"]
+  },
+  {
+    "id": 21,
+    "country": "ALL",
+    "date": "2025-09-01",
+    "name": "Rentree Scolaire",
+    "type": "academic",
+    "content_ideas": ["Back-to-school fashion", "Tips pour une rentree reussie", "Organisation et productivite", "Fournitures scolaires must-have", "Motivation pour les etudiants"]
+  },
+  {
+    "id": 22,
+    "country": "ALL",
+    "date": "2025-06-15",
+    "name": "Periode d'Examens (Bac, BEPC)",
+    "type": "academic",
+    "content_ideas": ["Tips de revision", "Gestion du stress", "Brain food et nutrition", "Motivation pour les candidats", "Organisation du temps"]
+  },
+  {
+    "id": 23,
+    "country": "ALL",
+    "date": "2025-08-19",
+    "name": "Journee Mondiale de la Photographie",
+    "type": "international",
+    "content_ideas": ["Showcase de tes meilleures photos", "Tips de photographie mobile", "Behind the scenes de tes shoots", "Photographes africains inspirants", "Challenges photo"]
+  },
+  {
+    "id": 24,
+    "country": "ALL",
+    "date": "2025-07-17",
+    "name": "Journee Mondiale des Emojis",
+    "type": "international",
+    "content_ideas": ["Emojis les plus utilises", "Communication digitale", "Fun content avec emojis", "Evolution des emojis", "Emojis africains manquants"]
+  },
+  {
+    "id": 25,
+    "country": "ALL",
+    "date": "2025-10-01",
+    "name": "Journee Internationale de la Musique",
+    "type": "international",
+    "content_ideas": ["Playlist afro du moment", "Artistes africains emergents", "Impact de la musique africaine", "Concerts et festivals", "Ta musique preferee"]
+  },
+  {
+    "id": 26,
+    "country": "BF",
+    "date": "2025-10-24",
+    "name": "SIAO - Salon International de l'Artisanat",
+    "type": "cultural",
+    "content_ideas": ["Artisanat burkinabe", "Decouverte des artisans", "Shopping guide du SIAO", "Faso Dan Fani et mode locale", "Culture et heritage"]
+  },
+  {
+    "id": 27,
+    "country": "CI",
+    "date": "2025-11-01",
+    "name": "Festival Abissa",
+    "type": "cultural",
+    "content_ideas": ["Traditions N'Zima", "Danses et costumes traditionnels", "Histoire du festival", "Culture ivoirienne", "Celebrations de fin d'annee"]
+  },
+  {
+    "id": 28,
+    "country": "ALL",
+    "date": "2025-03-15",
+    "name": "Africa Tech Summit",
+    "type": "tech",
+    "content_ideas": ["Innovation tech africaine", "Startups inspirantes", "Networking et opportunites", "Future de la tech en Afrique", "Success stories"]
+  },
+  {
+    "id": 29,
+    "country": "ALL",
+    "date": "2025-06-20",
+    "name": "Journee Mondiale des Reseaux Sociaux",
+    "type": "international",
+    "content_ideas": ["Impact des reseaux sociaux", "Ton parcours de createur", "Tips pour grandir en ligne", "Moments marquants", "Communaute et engagement"]
+  },
+  {
+    "id": 30,
+    "country": "ALL",
+    "date": "2025-11-29",
+    "name": "Black Friday",
+    "type": "commercial",
+    "content_ideas": ["Deals et promotions locales", "Shopping guide", "Marques africaines a supporter", "Bon plans tech et mode", "Anti-surconsommation tips"]
+  },
+  {
+    "id": 31,
+    "country": "CI",
+    "date": "2025-03-20",
+    "name": "MASA - Marche des Arts du Spectacle Africain",
+    "type": "cultural",
+    "content_ideas": ["Spectacles et performances", "Artistes du continent", "Theatre africain contemporain", "Danse et chorégraphie", "Culture et creativite"]
+  },
+  {
+    "id": 32,
+    "country": "ALL",
+    "date": "2025-05-31",
+    "name": "Journee Mondiale Sans Tabac",
+    "type": "international",
+    "content_ideas": ["Sante et bien-etre", "Mode de vie sain", "Temoignages inspirants", "Prevention et sensibilisation", "Wellness tips"]
+  },
+  {
+    "id": 33,
+    "country": "SN",
+    "date": "2025-02-15",
+    "name": "Derby Dakar - ASC Jeanne d'Arc vs US Goree",
+    "type": "sports",
+    "content_ideas": ["Ambiance du match", "Culture football senegalaise", "Fan zone et supporters", "Histoire des clubs", "Pride locale"]
+  },
+  {
+    "id": 34,
+    "country": "ALL",
+    "date": "2025-06-28",
+    "name": "Qualifications CAN 2026",
+    "type": "sports",
+    "content_ideas": ["Soutien aux equipes nationales", "Analyse des matchs", "Tenues de supporter", "Pride africaine", "Football et unite"]
+  },
+  {
+    "id": 35,
+    "country": "CI",
+    "date": "2025-04-06",
+    "name": "Derby Abidjanais - ASEC vs Africa Sports",
+    "type": "sports",
+    "content_ideas": ["Passion football ivoirien", "Ambiance stade", "Rivalite historique", "Culture supporter", "Unite dans la competition"]
+  },
+  {
+    "id": 36,
+    "country": "ALL",
+    "date": "2025-07-07",
+    "name": "Journee Mondiale du Chocolat",
+    "type": "international",
+    "content_ideas": ["Cacao africain", "Chocolatiers locaux", "Recettes au chocolat", "De la feve a la tablette", "Chocolat made in Africa"]
+  },
+  {
+    "id": 37,
+    "country": "ALL",
+    "date": "2025-04-22",
+    "name": "Journee Mondiale de la Terre",
+    "type": "international",
+    "content_ideas": ["Eco-responsabilite", "Environnement africain", "Initiatives vertes locales", "Sustainable fashion", "Zero waste tips"]
+  },
+  {
+    "id": 38,
+    "country": "ALL",
+    "date": "2025-08-12",
+    "name": "Journee Internationale de la Jeunesse",
+    "type": "international",
+    "content_ideas": ["Jeunesse africaine inspirante", "Leadership et innovation", "Entrepreneuriat jeune", "Ton impact comme createur", "Future leaders"]
+  },
+  {
+    "id": 39,
+    "country": "ALL",
+    "date": "2025-11-15",
+    "name": "Startup Weekend Afrique de l'Ouest",
+    "type": "tech",
+    "content_ideas": ["Pitch ton idee", "Ecosystem startup", "Innovation et solutions locales", "Networking entrepreneurial", "Success stories"]
+  },
+  {
+    "id": 40,
+    "country": "ALL",
+    "date": "2025-02-13",
+    "name": "Journee Mondiale de la Radio",
+    "type": "international",
+    "content_ideas": ["Radios africaines iconiques", "Podcasting et audio content", "Evolution des medias", "Voix qui inspirent", "Radio vs streaming"]
+  },
+  {
+    "id": 41,
+    "country": "ALL",
+    "date": "2025-06-21",
+    "name": "Fete de la Musique",
+    "type": "international",
+    "content_ideas": ["Concerts gratuits dans ta ville", "Musique dans la rue", "Artistes locaux a decouvrir", "Playlist collaborative", "Celebration musicale"]
+  },
+  {
+    "id": 42,
+    "country": "ALL",
+    "date": "2025-12-10",
+    "name": "Journee Internationale des Droits Humains",
+    "type": "international",
+    "content_ideas": ["Voix pour la justice", "Droits et libertes", "Activisme digital", "Stories inspirantes", "Engagement citoyen"]
+  },
+  {
+    "id": 43,
+    "country": "SN",
+    "date": "2025-05-24",
+    "name": "Dakar Fashion Week",
+    "type": "cultural",
+    "content_ideas": ["Runway coverage", "Designers senegalais emergents", "Fashion trends africaines", "Behind the scenes", "Street style du DKFW"]
+  },
+  {
+    "id": 44,
+    "country": "ALL",
+    "date": "2025-07-30",
+    "name": "Journee Internationale de l'Amitie",
+    "type": "international",
+    "content_ideas": ["Celebrating friendships", "Squad goals content", "Amitie et communaute", "Tes meilleurs moments avec tes amis", "Support system"]
+  },
+  {
+    "id": 45,
+    "country": "ALL",
+    "date": "2025-10-16",
+    "name": "Journee Mondiale de l'Alimentation",
+    "type": "international",
+    "content_ideas": ["Cuisine africaine patrimoniale", "Ingredients locaux", "Securite alimentaire", "Recettes traditionnelles", "Farm to table africain"]
   }
 ]

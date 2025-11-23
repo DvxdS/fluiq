@@ -8,9 +8,7 @@ import { UserPlus, Sparkles, TrendingUp, Zap, Globe, Lock, Calendar, Instagram, 
 import React from 'react';
 import { FlagSlider } from '@/components/layout/FlagSlider';
 
-// =================================================================
-// TYPE DEFINITIONS & INTERFACES
-// =================================================================
+
 
 interface AnimatedSectionProps {
   children: React.ReactNode;
@@ -39,14 +37,12 @@ interface AnimatedCounterProps {
 interface PrimaryButtonProps {
   children: React.ReactNode;
   to?: string;
-  // Use explicit union type for Button component size compatibility
+  
   size?: 'default' | 'sm' | 'lg' | 'icon'; 
   className?: string;
 }
 
-// =================================================================
-// ANIMATION VARIANTS
-// =================================================================
+
 
 const fadeInUp: Variants = {
   hidden: { opacity: 0, y: 30 },
@@ -68,9 +64,7 @@ const staggerContainer: Variants = {
   }
 };
 
-// =================================================================
-// REUSABLE COMPONENTS
-// =================================================================
+
 
 const FloatingOrb: React.FC<FloatingOrbProps> = ({ className, delay = 0 }) => (
   <motion.div
@@ -169,9 +163,7 @@ const PrimaryButton: React.FC<PrimaryButtonProps> = ({ children, to = '/auth', s
     </Button>
 );
 
-// =================================================================
-// MAIN HOME COMPONENT
-// =================================================================
+
 
 export const Home: React.FC = () => {
   const [previewRef, previewInView] = useInView({ threshold: 0.2, triggerOnce: true });
