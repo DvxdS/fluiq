@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router-dom';
-import { FileText, PenTool, Calendar, Handshake, Palette, BookOpen, LayoutDashboard } from 'lucide-react';
+import { FileText, PenTool, Calendar, Handshake, Palette,  LayoutDashboard } from 'lucide-react';
 import { cn } from '@/lib/utils';
 
 const sidebarLinks = [

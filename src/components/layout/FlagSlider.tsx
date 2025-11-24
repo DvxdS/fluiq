@@ -2,10 +2,8 @@ import { useState } from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, EffectCoverflow } from 'swiper/modules';
 
-
 // Import Swiper styles
-import 'swiper/css';
-import 'swiper/css/effect-coverflow';
+import 'swiper/swiper-bundle.css';
 
 interface Country {
   code: string;
@@ -18,6 +16,7 @@ const countries: Country[] = [
   { code: 'SN', name: 'Sénégal', flagUrl: 'https://flagcdn.com/sn.svg' },
   { code: 'BF', name: 'Burkina Faso', flagUrl: 'https://flagcdn.com/bf.svg' },
   { code: 'TG', name: 'Togo', flagUrl: 'https://flagcdn.com/tg.svg' },
+  { code: 'BJ', name: 'Bénin', flagUrl: 'https://flagcdn.com/bj.svg' },
 ];
 
 export const FlagSlider = () => {
