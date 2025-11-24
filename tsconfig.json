@@ -6,6 +6,8 @@
   ],
 
     "compilerOptions": {
+    
+    "types": ["swiper", "vite/client"],
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]

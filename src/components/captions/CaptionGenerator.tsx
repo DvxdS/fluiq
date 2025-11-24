@@ -32,7 +32,7 @@ export const CaptionGenerator = () => {
   const [niche, setNiche] = useState('');
   const [city, setCity] = useState('');
   const [tone, setTone] = useState('');
-  const { caption, loading, generateCaption, clearCaption } = useCaptionGenerator();
+  const { caption, loading, generateCaption} = useCaptionGenerator();
 
   const handleGenerate = () => {
     if (!niche || !city || !tone) return;
